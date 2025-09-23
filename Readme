@@ -1,0 +1,26 @@
+Project Status
+
+We have scraped datasets from four darkweb marketplaces and performed initial analysis. The project is ongoing and we aim to complete it by December.
+
+DATASETS
+
+| Marketplace | Records | Images Available? |
+| ----------- | ------- | ----------------- |
+| Vortex      | 20,000  | Yes               |
+| Archtype    | 200     | No                |
+| MGM         | 4,753   | Yes               |
+| Bohemia     | 6,800   | No                |
+
+
+Data preprocessing has been completed for all four marketplaces.
+
+Images were scraped for MGM and Vortex, while Archtype and Bohemia currently have no images.
+  
+
+-> Next Steps
+
+1) Perform vendor profiling analysis for all marketplaces.
+
+2) Use computer vision techniques on datasets with images to analyze products.
+
+3) Integrate insights from both tabular and image data to complete the project by December.
